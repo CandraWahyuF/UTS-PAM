@@ -55,7 +55,7 @@ const Home = ({navigation}) => {
                     </View>  
                     <Text style={styles.titleForm}>Jenis Layanan</Text>
                     <View style={styles.search}>
-                        <Icon name="robot" size={20} color='#145723' />
+                        <Icon name="atom" size={20} color='#145723' />
                         <TextInput
                         style={styles.input}
                         placeholder="Pilih Layanan"
